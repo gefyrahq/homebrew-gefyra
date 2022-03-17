@@ -4,7 +4,7 @@ class Gefyra < Formula
   url "https://github.com/Schille/gefyra/releases/download/0.6.3/gefyra-0.6.3-darwin-amd64.zip"
   sha256 "ec436bcb5f2b1a0c50eb108ad0c0b3072c81a11b96e957ff7610d1435eaab473"
   license "Apache-2.0"
-  version_scheme 0.6.3
+  version 0.6.3
 
   def install
     bin.install "gefyra"
