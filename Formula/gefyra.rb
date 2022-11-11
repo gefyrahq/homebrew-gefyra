@@ -1,8 +1,8 @@
 class Gefyra < Formula
   desc "Blazingly-fast, rock-solid, local application development with Kubernetes"
   homepage "https://gefyra.dev"
-  url "https://github.com/gefyrahq/gefyra/releases/download/0.13.1/gefyra-0.13.1-darwin-universal.zip"
-  sha256 "3fd67e6a55e86efaee4fc55601ab7136c79a092b515c9fa386de2390bf32e2ba"
+  url "https://github.com/gefyrahq/gefyra/releases/download/0.13.2/gefyra-0.13.2-darwin-universal.zip"
+  sha256 "6902020fcb2755e6c15eecc47af68e08a91a874378ca80f313dbfac29952d349"
   license "Apache-2.0"
 
   def install
