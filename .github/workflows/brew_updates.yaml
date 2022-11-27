@@ -7,7 +7,7 @@ on:
     branches:
       - 'main'
     paths:
-      - '**.rb'
+      - 'Formular/gefyra.rb'
 
 permissions:
   contents: write
