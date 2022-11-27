@@ -1,5 +1,13 @@
 name: Gefyra Patcher auto-merge
-on: pull_request_target
+on:
+  pull_request_target:
+    types:
+      - opened
+      - reopened
+    branches:
+      - 'main'
+    paths:
+      - '**.rb'
 
 permissions:
   contents: write
