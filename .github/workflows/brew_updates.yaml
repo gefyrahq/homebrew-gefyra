@@ -4,10 +4,6 @@ on:
     types:
       - opened
       - reopened
-    branches:
-      - 'main'
-    paths:
-      - 'Formula/gefyra.rb'
 
 permissions:
   contents: write
